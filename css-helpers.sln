@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5741381F-DFD0-41B5-8813-4B1703A4EDA5}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		keyframes.css = keyframes.css
+		..\..\ImperialCity\Corporate\ImperialCityWebsite\Content\media.css = ..\..\ImperialCity\Corporate\ImperialCityWebsite\Content\media.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE9F41F-83A9-4EB5-89F9-272A5EB6ED30}
+	EndGlobalSection
+EndGlobal
